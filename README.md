@@ -1,2 +1,2 @@
-# DSW-WilsonCarrillo.
+# DSW-WilsonCarrillo
 Diseños Sitio Web
